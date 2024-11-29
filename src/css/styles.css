@@ -11,13 +11,13 @@ main{
     margin-top: 30px;
     margin-bottom: 20px;
     display: flex;
-    width: 75%;
-    gap: 150px;
+    gap: 100px;
     
 }
 
 img{
     width: 200px;
+    height: 100px;
 }
 .bg{
     background-color: #242B24;
@@ -109,9 +109,10 @@ a{
 }
 
 .side{
-    width: 30%;
+    margin-top: 100px;
+    width: 250%;
+    
 }
-
 
 
 
